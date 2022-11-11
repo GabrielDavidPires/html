@@ -3,3 +3,5 @@ testando uma atualizaçao
 de um arquivo
 arroz 
 feijao
+carne
+tomate
