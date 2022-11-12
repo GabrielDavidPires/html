@@ -5,3 +5,4 @@ arroz
 feijao
 carne
 tomate
+tr
